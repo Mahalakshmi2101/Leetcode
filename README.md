@@ -26,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0027-remove-element) |
+| [1572-matrix-diagonal-sum](https://github.com/Mahalakshmi2101/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Mahalakshmi2101/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
