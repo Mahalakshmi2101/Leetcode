@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mahalakshmi2101/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0392-is-subsequence) |
 ## Array
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
