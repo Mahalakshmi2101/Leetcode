@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mahalakshmi2101/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mahalakshmi2101/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mahalakshmi2101/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1572-matrix-diagonal-sum](https://github.com/Mahalakshmi2101/Leetcode/tree/master/1572-matrix-diagonal-sum) |
